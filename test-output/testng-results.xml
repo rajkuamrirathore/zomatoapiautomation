@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3346" started-at="2020-07-26T10:54:29Z" finished-at="2020-07-26T10:54:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3346" started-at="2020-07-26T10:54:29Z" finished-at="2020-07-26T10:54:32Z">
+      <class name="Zomato.Zomatoapiautomation.BestRest">
+        <test-method status="PASS" signature="Restaurent()[pri:0, instance:Zomato.Zomatoapiautomation.BestRest@5bfbf16f]" name="Restaurent" duration-ms="2763" started-at="2020-07-26T10:54:29Z" finished-at="2020-07-26T10:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Restaurent -->
+        <test-method status="PASS" signature="Resultfound()[pri:1, instance:Zomato.Zomatoapiautomation.BestRest@5bfbf16f]" name="Resultfound" duration-ms="526" started-at="2020-07-26T10:54:32Z" finished-at="2020-07-26T10:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Resultfound -->
+        <test-method status="PASS" signature="restarentsize()[pri:2, instance:Zomato.Zomatoapiautomation.BestRest@5bfbf16f]" name="restarentsize" duration-ms="19" started-at="2020-07-26T10:54:32Z" finished-at="2020-07-26T10:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restarentsize -->
+      </class> <!-- Zomato.Zomatoapiautomation.BestRest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
